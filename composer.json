@@ -1,0 +1,10 @@
+{
+    "name": "zzn/my-test",
+    "authors": [
+        {
+            "name": "zzn",
+            "email": "jenyzzn@qq.com"
+        }
+    ],
+    "require": {}
+}
